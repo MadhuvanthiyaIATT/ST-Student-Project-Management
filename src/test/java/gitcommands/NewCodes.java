@@ -9,6 +9,7 @@ public class NewCodes {
 		driver.get("https://www.google.com/");
 		System.out.println(driver.getTitle());
 		System.out.println(driver.getCurrentUrl());
+		System.out.println("All the codes are changed");
 	}
 
 }
